@@ -1,0 +1,9 @@
+details{
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 5px;
+}
+
+details[open] summary{
+    border-bottom: solid 1px black;
+}
